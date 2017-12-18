@@ -1,14 +1,8 @@
 package com.example.jardine.wordcounter;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Iterator;
-import java.util.List;
-import java.util.Map;
 import java.util.Set;
-import java.util.TreeMap;
 
 /**
  * Created by jardine on 18/12/2017.
